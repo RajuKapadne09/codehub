@@ -1,0 +1,6 @@
+In Eclipse, 
+
+Click File > Import > Existing Maven Project . 
+Navigate or type in the path of the folder where you extracted the ZIP file
+on the next screen. Once you click Finish, Maven 
+will take some time to download all the dependencies and initialize the project. 
